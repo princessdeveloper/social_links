@@ -62,7 +62,7 @@ p:last-of-type  {
 .links button {
     background-color: hsl(0, 0%, 20%);
     padding: 2rem ;
-    width: 20rem;
+    width: 25rem;
     font-weight: 700;
     color: white;
     border-radius: 10px;
@@ -71,6 +71,7 @@ p:last-of-type  {
     align-items: center; 
     text-align: center;
     cursor: pointer;
+    line-height: 10%;
 }
 
 .links a {
