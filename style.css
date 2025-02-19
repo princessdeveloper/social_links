@@ -61,7 +61,6 @@ p:last-of-type  {
 .links button {
     background-color: hsl(0, 0%, 20%);
     padding: 2rem ;
-    width: 20rem;
     font-weight: 700;
     color: white;
     border-radius: 10px;
