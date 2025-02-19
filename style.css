@@ -29,7 +29,7 @@ body {
 }
 
 p:first-of-type  {
-    color: greenyellow;
+    color:hsl(75, 94%, 57%);
     font-family: "Inter", sans-serif; 
     font-weight: 900;
     padding: 10px;
@@ -60,8 +60,8 @@ p:last-of-type  {
 
 .links button {
     background-color: hsl(0, 0%, 20%);
-    padding: 2rem;
-    width: 25rem;
+    padding: 2rem ;
+    width: 20rem;
     font-weight: 700;
     color: white;
     border-radius: 10px;
