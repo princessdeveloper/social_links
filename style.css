@@ -55,6 +55,7 @@ p:last-of-type  {
     gap: 1rem;
     justify-content: space-evenly;
     margin-top: 2rem;
+    padding: 0 15px;
 }
 
 .links button {
